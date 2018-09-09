@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: base64image
+Version: 0.5.1
+Summary: Base64 Image Handler for Data URIs
+Home-page: UNKNOWN
+Author: Lily Seabreeze
+Author-email: lillian.gardenia.seabreeze@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5

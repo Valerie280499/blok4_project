@@ -1,0 +1,10 @@
+
+textarea{
+    width: 700px;
+    height: 200px;
+    padding: 50px;
+    text-align: left;
+    align-content: left;
+    cols: 20;
+    rows: 100;
+}
